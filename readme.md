@@ -43,3 +43,6 @@ Install the required files to run on your local system:
 - urllib
 
       sudo pip install urllib
+
+github推送老超时用这个命令改url为ssh：
+git remote set-url origin <git@github.com>:jn6201/terrain_generator.git  
